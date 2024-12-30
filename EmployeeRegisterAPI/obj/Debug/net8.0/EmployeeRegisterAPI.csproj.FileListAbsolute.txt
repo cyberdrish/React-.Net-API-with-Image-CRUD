@@ -291,3 +291,4 @@ D:\Drish study\Visual Studio Projects\Emp_reg_Project_w_img\EmployeeRegisterAPI\
 D:\Drish study\Visual Studio Projects\Emp_reg_Project_w_img\EmployeeRegisterAPI\obj\Debug\net8.0\EmployeeRegisterAPI.pdb
 D:\Drish study\Visual Studio Projects\Emp_reg_Project_w_img\EmployeeRegisterAPI\obj\Debug\net8.0\EmployeeRegisterAPI.genruntimeconfig.cache
 D:\Drish study\Visual Studio Projects\Emp_reg_Project_w_img\EmployeeRegisterAPI\obj\Debug\net8.0\ref\EmployeeRegisterAPI.dll
+D:\Drish study\Visual Studio Projects\Emp_reg_Project_w_img\EmployeeRegisterAPI\obj\Debug\net8.0\EmployeeRegisterAPI.sourcelink.json

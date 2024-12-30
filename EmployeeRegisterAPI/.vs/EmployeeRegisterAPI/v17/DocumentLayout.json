@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
               "ToolTip": "D:\\Drish study\\Visual Studio Projects\\Emp_reg_Project_w_img\\EmployeeRegisterAPI\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAAwIUAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAcwHQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-28T10:12:18.302Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "Models\\EmployeeModel.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAwwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T09:52:15.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T09:52:15.913Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Models\\EmployeeDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T09:53:06.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T09:53:06.406Z"
             }
           ]
         }
