@@ -1,0 +1,101 @@
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.invalid-field {
+  border-color: #dc3545;
+  color: #dc3545;
+  background-color: #fff;
+}
+
+table div.card {
+  align-items: center;
+  border: none;
+  transition: transform 0.2s;
+}
+table div.card:hover {
+  cursor: pointer;
+  transform: scale(1.05);
+  box-shadow: 0 0 10px #333;
+  z-index: 10;
+}
+
+table div.card:hover button.delete-button {
+  visibility: visible;
+}
+
+table div.card-body {
+  text-align: center;
+}
+
+table div.card img {
+  width: 175px;
+  height: 175px;
+  margin: 30px;
+}
+
+table div.card .delete-button {
+  visibility: hidden;
+}
+
+table tr td:not(:nth-child(3)) {
+  border-right: 1px solid #00000020;
+  display: flex;
+}
+
+table tr:not(:last-child) td {
+  border-bottom: 1px solid #00000020;
+}
+
+/* Default behavior: 3 items per row */
+
+div.card-register {
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.2s;
+}
+div.card-wrapper {
+  align-items: center;
+  justify-content: center;
+  border: none;
+  transition: transform 0.2s;
+  border-bottom: 1px solid #00000020;
+  border-right: 1px solid #00000020;
+}
+div.card-wrapper:hover {
+  cursor: pointer;
+  transform: scale(1.05);
+  background-color: #fff;
+  box-shadow: 0 0 10px #333;
+  z-index: 10;
+}
+
+div.card-register:hover button.delete-button {
+  visibility: visible;
+}
+
+div.card-register-body {
+  text-align: center;
+}
+
+div.card-wrapper img {
+  width: 175px;
+  height: 175px;
+  padding: 10px;
+}
+
+div.card-wrapper:is(:nth-child(3n)) {
+  border-right: none;
+}
+
+div.card-wrapper:is(:nth-last-child(-n + 3)) {
+  border-bottom: none;
+}

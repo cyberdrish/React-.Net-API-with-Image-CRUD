@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "lbO7zMm9I51YdIMOk33Lhn1taJmPuGjFkzuwL9hljNw=",
+  "Source": "EmployeeRegisterAPI",
+  "BasePath": "_content/EmployeeRegisterAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
